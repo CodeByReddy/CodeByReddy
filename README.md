@@ -14,7 +14,7 @@
   <tr>
     <td width="50%" align="left" style="vertical-align: top;">
       <p>🎓 Academic background: <strong>$${\color{#2e9df7}Bachelor \space of \space Science \space [B.Sc] \space MPCs.}$$</strong></p>
-      <p>🌱 Currently focusing on: <strong>$${\color{#FF8A00} Full \space Stack \space Development.}$$</strong></p>
+      <p>🌱 Currently focusing on: <strong>$${\color{#FF8A00} Java \space Full \space Stack \space Development.}$$</strong></p>
       <p>🤔 Technologies I use daily: <strong>$${\color{orange}.html \space \color{aqua} .css \space \color{yellow} .js}$$</strong></p>
       <p>🧑‍💼 Available for: <strong>$${\color{#d64084}Web \space Development \space Internships.}$$</strong></p>    
       <p>📧 Reach out: <a href="mailto:rupanagudi.sujith2708@gmail.com">rupanagudi.sujith2708@gmail.com</a></p> 
